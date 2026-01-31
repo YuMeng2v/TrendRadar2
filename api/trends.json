@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T17:34:40.616197+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2026-01-31T18:31:42.022224+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时46分 ~ 17时34分]"
+          "appearance_count": 20,
+          "time_info": "[00时46分 ~ 18时31分]"
         },
         {
           "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时46分 ~ 17时34分]"
+          "appearance_count": 20,
+          "time_info": "[00时46分 ~ 18时31分]"
         },
         {
           "title": "特朗普粗暴评论斯塔默访华，英高官罕见回了一巴掌",
@@ -44,8 +44,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[04时36分 ~ 17时34分]"
+          "appearance_count": 16,
+          "time_info": "[04时36分 ~ 18时31分]"
         },
         {
           "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
@@ -74,6 +74,17 @@
           "time_info": "[00时46分 ~ 15时33分]"
         },
         {
+          "title": "斯塔默回击特朗普涉中英言论",
+          "url": "https://news.ifeng.com/c/8qMRPj6uboL",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时48分 ~ 18时31分]"
+        },
+        {
           "title": "特朗普提名凯文·沃什担任美联储主席",
           "url": "https://news.ifeng.com/c/8qLGm417qYM",
           "source": "凤凰网",
@@ -96,6 +107,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时46分 ~ 07时31分]"
+        },
+        {
+          "title": "美持续施压伊朗，特朗普：没有撤回军事部署的时间表",
+          "url": "https://news.ifeng.com/c/8qM3KAFor4V",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时31分 ~ 18时31分]"
         },
         {
           "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
@@ -124,17 +146,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时46分 ~ 07时31分]"
-        },
-        {
-          "title": "斯塔默回击特朗普涉中英言论",
-          "url": "https://news.ifeng.com/c/8qMRPj6uboL",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时48分 ~ 17时34分]"
         },
         {
           "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
@@ -172,8 +183,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时31分 ~ 17时34分]"
+          "appearance_count": 12,
+          "time_info": "[06时31分 ~ 18时31分]"
         },
         {
           "title": "俄方：普京收到了特朗普的请求",
@@ -191,15 +202,17 @@
           "time_info": "[00时46分 ~ 07时31分]"
         },
         {
-          "title": "美持续施压伊朗，特朗普：没有撤回军事部署的时间表",
-          "url": "https://news.ifeng.com/c/8qM3KAFor4V",
-          "source": "凤凰网",
+          "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
+          "url": "https://wallstreetcn.com/premium/articles/3764615?layout=wscn-layout",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[07时31分 ~ 17时34分]"
+          "time_info": "[10时24分 ~ 18时31分]"
         },
         {
           "title": "特朗普：已告知伊朗达成协议的最后期限",
@@ -213,29 +226,33 @@
           "time_info": "[04时36分 ~ 10时24分]"
         },
         {
-          "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
-          "url": "https://wallstreetcn.com/premium/articles/3764615?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时24分 ~ 17时34分]"
-        },
-        {
           "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
           "url": "https://wallstreetcn.com/articles/3764623",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 17时34分]"
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 18时31分]"
+        },
+        {
+          "title": "斯塔默回击特朗普涉中英合作言论：忽视中国是“不明智的”",
+          "url": "https://wallstreetcn.com/livenews/3047643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6,
+            9,
+            15,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时42分 ~ 18时31分]"
         },
         {
           "title": "谁是沃什？其岳父第一个建议特朗普买下格陵兰岛",
@@ -250,19 +267,17 @@
           "time_info": "[00时46分 ~ 04时37分]"
         },
         {
-          "title": "斯塔默回击特朗普涉中英合作言论：忽视中国是“不明智的”",
-          "url": "https://wallstreetcn.com/livenews/3047643",
-          "source": "华尔街见闻-快讯",
+          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
+          "url": "https://www.cls.cn/detail/2276487",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            6,
-            9,
-            15,
-            18
+            13,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时42分 ~ 17时34分]"
+          "appearance_count": 6,
+          "time_info": "[14时48分 ~ 18时31分]"
         },
         {
           "title": "特朗普驱赶ABC记者",
@@ -342,19 +357,6 @@
           "time_info": "01时39分"
         },
         {
-          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
-          "url": "https://www.cls.cn/detail/2276487",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时48分 ~ 17时34分]"
-        },
-        {
           "title": "美国总统特朗普将于十分钟后出席一场政策会议。",
           "url": "https://flash.jin10.com/detail/20260131025000000800",
           "source": "金十数据",
@@ -379,6 +381,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时28分 ~ 15时33分]"
+        },
+        {
+          "title": "观察丨美伊开打风险在回落？专家：特朗普虚实难辨，威胁与对话并存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32502341",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时33分 ~ 18时31分]"
         },
         {
           "title": "美国参议院沃伦周五致信总统特朗普的美联储主席提名人凯文·沃什。 沃伦询问对方是否支持特朗普司法部对美联储主席鲍威尔和美联储理事Lisa Cook的调查。（华尔街日报）",
@@ -431,16 +446,16 @@
           "time_info": "[04时37分 ~ 05时34分]"
         },
         {
-          "title": "观察丨美伊开打风险在回落？专家：特朗普虚实难辨，威胁与对话并存",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32502341",
-          "source": "澎湃新闻",
+          "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
+          "url": "https://wallstreetcn.com/articles/3764621",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            9
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时33分 ~ 17时34分]"
+          "time_info": "[16时36分 ~ 18时31分]"
         },
         {
           "title": "美持续施压伊朗，特朗普：没有撤回军事部署的时间表",
@@ -455,17 +470,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时24分 ~ 14时48分]"
-        },
-        {
-          "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
-          "url": "https://wallstreetcn.com/articles/3764621",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 17时34分]"
         },
         {
           "title": "特朗普宣布提名布雷特·松本为劳工统计局新任局长",
@@ -758,8 +762,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时24分 ~ 17时34分]"
+          "appearance_count": 9,
+          "time_info": "[10时24分 ~ 18时31分]"
         },
         {
           "title": "美股收盘：三大指数集体收低 多只金矿股跌超两位数",
@@ -768,11 +772,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时24分 ~ 17时34分]"
+          "appearance_count": 9,
+          "time_info": "[10时24分 ~ 18时31分]"
         },
         {
           "title": "美股股指走低，道指跌1%，纳指跌超0.9%，标普500指数跌0.72%。",
