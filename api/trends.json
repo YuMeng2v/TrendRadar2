@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-02T18:55:15.460233+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-02-02T19:40:04.161655+08:00",
+  "total_titles_processed": 1369,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 33,
       "titles": [
+        {
+          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
+          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时08分 ~ 19时40分]"
+        },
         {
           "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
           "url": "https://news.ifeng.com/c/8qOFedymx0W",
@@ -45,18 +57,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时36分 ~ 13时01分]"
-        },
-        {
-          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
-          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时08分 ~ 18时55分]"
         },
         {
           "title": "美国众议院议长约翰逊：特朗普在移民政策上可能会进行“重新调整”。 未来数日将就拨款法案展开 “富有成效的” 磋商。",
@@ -272,6 +272,18 @@
           "time_info": "[06时31分 ~ 07时31分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-02）",
+          "url": "https://flash.jin10.com/detail/20260202181717877800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时40分]"
+        },
+        {
           "title": "新爱泼斯坦档案特朗普被提超千次",
           "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%A3%E6%A1%88%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%8F%90%E8%B6%85%E5%8D%83%E6%AC%A1%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -360,17 +372,6 @@
           "time_info": "10时38分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-02）",
-          "url": "https://flash.jin10.com/detail/20260202181717877800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
           "title": "特朗普回应被爱泼斯坦案文件提及",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%8F%90%E5%8F%8A%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -388,7 +389,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         }
@@ -450,7 +451,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -513,8 +514,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时36分 ~ 18时55分]"
+          "appearance_count": 19,
+          "time_info": "[00时36分 ~ 19时40分]"
         }
       ]
     }
