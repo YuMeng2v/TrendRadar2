@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T19:40:04.161655+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2026-02-02T21:11:13.623404+08:00",
+  "total_titles_processed": 1492,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
@@ -383,6 +383,17 @@
           "time_info": "13时01分"
         },
         {
+          "title": "美国稀土公司（USA Rare Earth）盘前拉升，现涨超3%，特朗普拟启动120亿美元战略矿产储备。",
+          "url": "https://wallstreetcn.com/livenews/3048345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "克里姆林宫：对于此前就俄罗斯应特朗普请求短暂暂停打击乌克兰能源基础设施一事所作表态，已无更多补充。",
           "url": "https://flash.jin10.com/detail/20260202175246532800",
           "source": "金十数据",
@@ -392,12 +403,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
+        },
+        {
+          "title": "特朗普拟设120亿美元关键矿产战略储备",
+          "url": "https://flash.jin10.com/detail/20260202202100630800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金银深V遭沪盘打压，现货黄金跌破4600美元关口、沪银跌17%、沪金跌超10%，美股期货、原油走低",
@@ -465,6 +487,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
+        },
+        {
+          "title": "迪士尼美股盘前转涨，现涨超3%，公司第一季度调整后每股收益超市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3048339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         }
       ]
     },
