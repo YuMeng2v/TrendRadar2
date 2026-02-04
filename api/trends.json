@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T16:51:39.969148+08:00",
-  "total_titles_processed": 1436,
+  "generated_at": "2026-02-04T17:52:44.549316+08:00",
+  "total_titles_processed": 1543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时44分 ~ 16时51分]"
+          "appearance_count": 8,
+          "time_info": "[12时44分 ~ 17时52分]"
         },
         {
           "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时29分 ~ 16时51分]"
+          "appearance_count": 9,
+          "time_info": "[10时29分 ~ 17时52分]"
         },
         {
           "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
@@ -62,19 +62,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时54分 ~ 16时51分]"
-        },
-        {
-          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
-          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 06时36分]"
+          "appearance_count": 6,
+          "time_info": "[13时54分 ~ 17时52分]"
         },
         {
           "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
@@ -87,8 +76,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时54分 ~ 16时51分]"
+          "appearance_count": 6,
+          "time_info": "[13时54分 ~ 17时52分]"
+        },
+        {
+          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
+          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时36分]"
         },
         {
           "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
@@ -109,7 +109,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -287,6 +287,18 @@
           "time_info": "[06时36分 ~ 07时33分]"
         },
         {
+          "title": "特朗普与爱泼斯坦聚会视频曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%81%9A%E4%BC%9A%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 17时52分]"
+        },
+        {
           "title": "英美领导人通话讨论迪戈加西亚岛争议 此前特朗普立场反复",
           "url": "https://flash.jin10.com/detail/20260204071642360800",
           "source": "金十数据",
@@ -340,6 +352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "记者问爱泼斯坦案被特朗普怒怼",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%B0%E8%80%85%E9%97%AE%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%80%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "特朗普公布120亿美元“金库计划”",
@@ -518,17 +541,6 @@
           "time_info": "03时10分"
         },
         {
-          "title": "特朗普与爱泼斯坦聚会视频曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%81%9A%E4%BC%9A%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
-        },
-        {
           "title": "美国总统特朗普在Truth Social平台上发布白宫宴会厅效果图。",
           "url": "https://flash.jin10.com/detail/20260204045232753800",
           "source": "金十数据",
@@ -642,7 +654,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -653,8 +665,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时33分 ~ 17时52分]"
+        },
+        {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[07时33分 ~ 16时51分]"
+          "time_info": "[10时29分 ~ 17时52分]"
         },
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -668,18 +692,6 @@
           "time_info": "[01时01分 ~ 06时36分]"
         },
         {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时29分 ~ 16时51分]"
-        },
-        {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
           "url": "https://wallstreetcn.com/articles/3764730",
           "source": "华尔街见闻",
@@ -689,6 +701,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时01分 ~ 06时36分]"
+        },
+        {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时54分 ~ 17时52分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -715,19 +740,6 @@
           "time_info": "[07时33分 ~ 15时01分]"
         },
         {
-          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
-          "url": "https://www.zhihu.com/question/2002302871203440223",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时54分 ~ 16时51分]"
-        },
-        {
           "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
           "url": "https://www.cls.cn/detail/2279689",
           "source": "财联社热门",
@@ -750,8 +762,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时44分 ~ 16时51分]"
+          "appearance_count": 8,
+          "time_info": "[12时44分 ~ 17时52分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
@@ -762,8 +774,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时00分 ~ 16时51分]"
+          "appearance_count": 5,
+          "time_info": "[15时00分 ~ 17时52分]"
         },
         {
           "title": "美股延续跌势，道指下跌1.00%。",
@@ -890,6 +902,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "AMD美股盘前跌超7％，消息面上，公司下一季度营收指引不及市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3049757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "美股爆发AI恐慌性抛售",
@@ -1228,8 +1251,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时01分 ~ 16时51分]"
+          "appearance_count": 18,
+          "time_info": "[01时01分 ~ 17时52分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
