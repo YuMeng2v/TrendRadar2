@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T22:52:31.465763+08:00",
-  "total_titles_processed": 1966,
+  "generated_at": "2026-03-05T23:56:22.629154+08:00",
+  "total_titles_processed": 2055,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 54,
       "titles": [
         {
           "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
@@ -39,11 +39,12 @@
             7,
             5,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时31分 ~ 22时52分]"
+          "appearance_count": 16,
+          "time_info": "[10时31分 ~ 23时56分]"
         },
         {
           "title": "特朗普正式提名凯文·沃什出任美联储主席 参议院确认战将启",
@@ -106,6 +107,29 @@
           "time_info": "[00时54分 ~ 10时32分]"
         },
         {
+          "title": "特朗普：若满分10分，我给美对伊行动打15分",
+          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时47分 ~ 23时56分]"
+        },
+        {
+          "title": "特朗普“大发战争财”，借打伊朗搞募款",
+          "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时52分 ~ 23时56分]"
+        },
+        {
           "title": "弹药告急！特朗普将召见军工大佬，筹划掏500亿美元补充军火",
           "url": "https://news.ifeng.com/c/8rFCPechKEM",
           "source": "凤凰网",
@@ -117,29 +141,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时53分 ~ 18时47分]"
-        },
-        {
-          "title": "特朗普：若满分10分，我给美对伊行动打15分",
-          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时47分 ~ 22时52分]"
-        },
-        {
-          "title": "特朗普“大发战争财”，借打伊朗搞募款",
-          "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时52分 ~ 22时52分]"
         },
         {
           "title": "美称打死试图暗杀特朗普的伊朗高官",
@@ -193,6 +194,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "特朗普称美国不会与西班牙协同合作，西班牙对北约持敌对态度。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3064584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "沆瀣一气！53对47，美国会参议院否决限制特朗普战争权力的议案",
+          "url": "https://news.ifeng.com/c/8rFoSNRxgNC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "据《华盛顿邮报》：美国总统特朗普本周在通话中向库尔德领导人表示支持。",
@@ -267,6 +290,18 @@
           "time_info": "[01时44分 ~ 02时59分]"
         },
         {
+          "title": "特朗普政府承诺“护航”原油供应？华尔街和行业专家疾呼：还不够！",
+          "url": "https://www.cls.cn/detail/2303813",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 23时56分]"
+        },
+        {
           "title": "白宫：向伊朗派美军地面部队目前还“不在计划内”，但不会排除特朗普的任何军事选项",
           "url": "https://wallstreetcn.com/livenews/3063850",
           "source": "华尔街见闻-快讯",
@@ -290,6 +325,17 @@
           "time_info": "19时38分"
         },
         {
+          "title": "据纽约邮报：美国总统特朗普表示，美国不会与西班牙“团队合作”。",
+          "url": "https://flash.jin10.com/detail/20260305233728911800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "美国参议院未通过叫停特朗普打击伊朗的投票",
           "url": "https://wallstreetcn.com/livenews/3063881",
           "source": "华尔街见闻-快讯",
@@ -310,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "据纽约邮报：美国总统特朗普称西班牙一直敌视北约。",
+          "url": "https://flash.jin10.com/detail/20260305233702683800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "白宫新闻秘书莱维特：美国总统特朗普将出席在伊朗袭击中丧生的美军官兵的隆重葬礼。",
@@ -365,17 +422,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
-        },
-        {
-          "title": "特朗普政府承诺“护航”原油供应？华尔街和行业专家疾呼：还不够！",
-          "url": "https://www.cls.cn/detail/2303813",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉总统德尔西·罗德里格斯工作做得非常出色。",
@@ -450,7 +496,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
@@ -516,9 +562,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
+        },
+        {
+          "title": "特朗普：共和党人必须不惜一切代价全力推进《拯救美国法案》",
+          "url": "https://wallstreetcn.com/livenews/3064566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-05）",
@@ -579,7 +636,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "美国“小非农”超预期回暖，美股指高开，纳指涨幅扩大至1%，美油转跌，断供影响伦铝创四年新高",
@@ -613,8 +670,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时36分 ~ 22时52分]"
+          "appearance_count": 17,
+          "time_info": "[07时36分 ~ 23时56分]"
         },
         {
           "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
@@ -664,13 +721,24 @@
           "time_info": "[17时52分 ~ 17时53分]"
         },
         {
+          "title": "中东局势打击风险偏好，美股指下跌，纳指跌0.5%，美油涨5%，金银齐跌",
+          "url": "https://wallstreetcn.com/articles/3766762",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "金十图示：2026年03月05日（周四）美股热门股票行情一览",
           "url": "https://flash.jin10.com/detail/20260305223632756800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
@@ -681,7 +749,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
@@ -696,6 +764,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时37分]"
+        },
+        {
+          "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2304327",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 23时56分]"
         },
         {
           "title": "博通美股盘前涨超6%，公司业绩略超预期，季度营收指引超预期。",
@@ -829,24 +909,13 @@
           "time_info": "[03时42分 ~ 04时37分]"
         },
         {
-          "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2304327",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
-        },
-        {
           "title": "美股开盘，道指跌0.74%，标普500指数跌0.47%，纳指跌0.44%。热门中概股普跌，哔哩哔哩(BILI.O)跌超5%，京东(JD.O)、阿里巴巴(BABA.N)跌约3%。",
           "url": "https://flash.jin10.com/detail/20260305223026344800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
@@ -884,6 +953,17 @@
           "time_info": "18时47分"
         },
         {
+          "title": "全球航空业ETF跌2.03%，在美股盘初领跌行业ETF，医疗保健ETF跌1.57%，标普日常消费ETF跌1.28%，房地产精选ETF跌1.20%。 标普油气ETF则涨1.7%，北美科技股软件ETF涨2.0%。",
+          "url": "https://wallstreetcn.com/livenews/3064564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "美股三大股指期货短线拉升，纳斯达克100指数期货现涨0.2%，标普500指数期货涨0.16%，道指期货涨0.09%。",
           "url": "https://flash.jin10.com/detail/20260305171251360800",
           "source": "金十数据",
@@ -901,15 +981,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
+        },
+        {
+          "title": "美股盘初：道指跌0.7%，黄金股普跌，京东跌约3%，哔哩哔哩跌约7%",
+          "url": "https://wallstreetcn.com/livenews/3064557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "英伟达CEO黄仁勋：目前并不存在1000亿美元投资机会。 OpenAI（潜在的）IPO限制投资机会。 与OpenAI、Anthropic的协议可能是最后一轮。",
@@ -1009,6 +1100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "The Information：OpenAI开发出一款“双向”音频模型。",
+          "url": "https://flash.jin10.com/detail/20260305230503213800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         }
       ]
     },
@@ -1079,9 +1181,48 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数DXY日内涨超0.50%，现报99.31。",
+          "url": "https://flash.jin10.com/detail/20260305234037343800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "周三（3月4日）纽约尾盘，ICE美元指数跌0.30%，报98.756点，日内交投区间为99.329-98.700点。 彭博美元指数跌0.29%，报1199.95点，日内交投区间为1206.74-1199.25点。",
+          "url": "https://wallstreetcn.com/livenews/3063844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
+          "title": "美元指数4日下跌",
+          "url": "https://flash.jin10.com/detail/20260305043255463800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时40分"
         }
       ]
     },
@@ -1123,34 +1264,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时31分 ~ 10时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周三（3月4日）纽约尾盘，ICE美元指数跌0.30%，报98.756点，日内交投区间为99.329-98.700点。 彭博美元指数跌0.29%，报1199.95点，日内交投区间为1206.74-1199.25点。",
-          "url": "https://wallstreetcn.com/livenews/3063844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时40分"
-        },
-        {
-          "title": "美元指数4日下跌",
-          "url": "https://flash.jin10.com/detail/20260305043255463800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时40分"
         }
       ]
     },
