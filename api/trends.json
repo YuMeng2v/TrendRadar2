@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T13:50:56.891718+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2026-03-06T14:57:52.897556+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时09分 ~ 13时50分]"
+          "appearance_count": 11,
+          "time_info": "[02时09分 ~ 14时57分]"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
@@ -46,11 +46,12 @@
           "url": "https://news.ifeng.com/c/8rGUp5Pquod",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 13时50分]"
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 14时57分]"
         },
         {
           "title": "美国内政部长透露：特朗普政府正考虑“所有方案”来控制油价！",
@@ -60,8 +61,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 13时50分]"
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 14时57分]"
         },
         {
           "title": "特朗普要求立即赦免以色列总理",
@@ -75,6 +76,17 @@
           "time_info": "[10时29分 ~ 13时50分]"
         },
         {
+          "title": "美以伊战争最新动态｜牧师围着特朗普为他和美军祈祷",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 14时57分]"
+        },
+        {
           "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
           "url": "https://wallstreetcn.com/articles/3766752",
           "source": "华尔街见闻",
@@ -84,17 +96,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时09分 ~ 06时38分]"
-        },
-        {
-          "title": "美以伊战争最新动态｜牧师围着特朗普为他和美军祈祷",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
         },
         {
           "title": "特朗普新关税再遭法律挑战 多州拟联合起诉",
@@ -141,6 +142,18 @@
           "time_info": "10时29分"
         },
         {
+          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
+          "url": "https://www.cls.cn/detail/2304459",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时55分 ~ 14时57分]"
+        },
+        {
           "title": "美国国防部长赫格塞思：（被问及特朗普有关“有权决定伊朗下一任领导人”的言论）美国并未扩大其在伊朗的军事目标。",
           "url": "https://flash.jin10.com/detail/20260306061952883800",
           "source": "金十数据",
@@ -177,16 +190,15 @@
           "time_info": "[12时46分 ~ 13时50分]"
         },
         {
-          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
-          "url": "https://www.cls.cn/detail/2304459",
-          "source": "财联社热门",
+          "title": "美国24州联合起诉特朗普政府新关税政策",
+          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时55分 ~ 13时50分]"
+          "time_info": "[10时29分 ~ 14时57分]"
         },
         {
           "title": "美国总统特朗普：马克韦恩·穆林（Markwayne Mullin）将于2026年3月31日起担任美国国土安全部部长。",
@@ -228,15 +240,17 @@
           "time_info": "[03时56分 ~ 05时41分]"
         },
         {
-          "title": "美国24州联合起诉特朗普政府新关税政策",
-          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
-          "source": "凤凰网",
+          "title": "美国24州联合起诉特朗普政府",
+          "url": "https://www.toutiao.com/trending/7613919843846897683/",
+          "source": "今日头条",
           "ranks": [
-            11
+            23,
+            22,
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时29分 ~ 13时50分]"
+          "time_info": "[12时46分 ~ 14时57分]"
         },
         {
           "title": "美国24州联合起诉特朗普政府",
@@ -323,18 +337,6 @@
           "time_info": "[06时38分 ~ 07时55分]"
         },
         {
-          "title": "美国24州联合起诉特朗普政府",
-          "url": "https://www.toutiao.com/trending/7613919843846897683/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时50分]"
-        },
-        {
           "title": "美国总统特朗普：（被问及泽连斯基提出协助抵御伊朗无人机的提议）我会接受任何国家的任何援助。",
           "url": "https://flash.jin10.com/detail/20260306014749134800",
           "source": "金十数据",
@@ -352,7 +354,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -366,6 +368,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        },
+        {
+          "title": "伊朗战火下美汽油价格大涨 特朗普：不担心，无意动用战略油储！",
+          "url": "https://www.cls.cn/detail/2304532",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         },
         {
           "title": "特朗普谈油价：涨就涨吧，军事行动重要得多",
@@ -385,7 +398,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -421,6 +434,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "印尼政府：总统普拉博沃已向当地伊斯兰团体保证，如果美国总统特朗普的“和平委员会”平台不能为巴勒斯坦人带来利益，他将退出该委员会。",
+          "url": "https://flash.jin10.com/detail/20260306141544711800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         },
         {
           "title": "特朗普白宫接见梅西：你比贝利出色",
@@ -681,8 +705,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时55分 ~ 13时50分]"
+          "appearance_count": 5,
+          "time_info": "[07时55分 ~ 14时57分]"
         },
         {
           "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
@@ -694,8 +718,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时38分 ~ 13时50分]"
+          "appearance_count": 6,
+          "time_info": "[06时38分 ~ 14时57分]"
         },
         {
           "title": "道指跌近800点，小盘股指下挫2%，领跌美股基准股指",
@@ -875,8 +899,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 13时50分]"
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 14时57分]"
         },
         {
           "title": "详解OpenAI新模型GPT-5.4",
