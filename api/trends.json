@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T14:52:12.104650+08:00",
-  "total_titles_processed": 980,
+  "generated_at": "2026-03-08T15:34:45.972905+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 14时52分]"
+          "appearance_count": 18,
+          "time_info": "[00时34分 ~ 15时34分]"
         },
         {
           "title": "专家：特朗普的麻烦还在后面，美国与伊朗的战争成本接近300:1",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时34分 ~ 14时52分]"
+          "appearance_count": 8,
+          "time_info": "[10时34分 ~ 15时34分]"
         },
         {
           "title": "英国可能部署航母至中东，特朗普：不需要",
@@ -59,19 +59,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时34分 ~ 14时52分]"
-        },
-        {
-          "title": "美以伊战争｜特朗普：目前无计划在伊朗部署地面部队",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时28分]"
+          "appearance_count": 8,
+          "time_info": "[10时34分 ~ 15时34分]"
         },
         {
           "title": "委内瑞拉代总统致函特朗普",
@@ -83,8 +72,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时34分 ~ 14时52分]"
+          "appearance_count": 8,
+          "time_info": "[10时34分 ~ 15时34分]"
         },
         {
           "title": "王毅回应特朗普访华",
@@ -96,8 +85,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时47分 ~ 14时52分]"
+          "appearance_count": 6,
+          "time_info": "[12时47分 ~ 15时34分]"
+        },
+        {
+          "title": "美以伊战争｜特朗普：目前无计划在伊朗部署地面部队",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时28分]"
         },
         {
           "title": "特朗普：“已经打赢”，美国不需要英国派遣航母参与对伊朗军事行动",
@@ -259,6 +259,18 @@
           "time_info": "[00时34分 ~ 01时26分]"
         },
         {
+          "title": "美国总统特朗普：现在就通过《拯救美国法案》。这才是大家关心的重点！",
+          "url": "https://flash.jin10.com/detail/20260308135054523800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 15时34分]"
+        },
+        {
           "title": "特朗普称没有迹象表明俄罗斯支持伊朗",
           "url": "https://flash.jin10.com/detail/20260308104028991800",
           "source": "金十数据",
@@ -302,17 +314,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
-        },
-        {
-          "title": "美国总统特朗普：现在就通过《拯救美国法案》。这才是大家关心的重点！",
-          "url": "https://flash.jin10.com/detail/20260308135054523800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
         },
         {
           "title": "伊朗外交部长：总统对地区缓和局势的开放态度，几乎立即就被特朗普总统对我方能力的误判所扼杀。",
@@ -446,7 +447,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
@@ -457,8 +458,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 14时52分]"
+          "appearance_count": 18,
+          "time_info": "[00时34分 ~ 15时34分]"
+        },
+        {
+          "title": "沙特阿美股价早盘上涨3.3%。",
+          "url": "https://flash.jin10.com/detail/20260308150416829800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         }
       ]
     },
@@ -477,8 +489,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时34分 ~ 14时52分]"
+          "appearance_count": 8,
+          "time_info": "[10时34分 ~ 15时34分]"
         }
       ]
     }
