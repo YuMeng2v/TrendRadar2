@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T22:48:53.631699+08:00",
-  "total_titles_processed": 1907,
+  "generated_at": "2026-03-13T23:49:51.620077+08:00",
+  "total_titles_processed": 2008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普称穆杰塔巴可能受伤但仍活着",
@@ -56,6 +56,17 @@
           "time_info": "[00时04分 ~ 05时38分]"
         },
         {
+          "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
+          "url": "https://news.ifeng.com/c/8rSg9cinRV8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时43分 ~ 23时49分]"
+        },
+        {
           "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
           "url": "https://wallstreetcn.com/articles/3767380",
           "source": "华尔街见闻",
@@ -66,8 +77,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时31分 ~ 22时48分]"
+          "appearance_count": 15,
+          "time_info": "[10时31分 ~ 23时49分]"
         },
         {
           "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
@@ -83,17 +94,6 @@
           "time_info": "[13时53分 ~ 19时36分]"
         },
         {
-          "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
-          "url": "https://news.ifeng.com/c/8rSg9cinRV8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时43分 ~ 22时48分]"
-        },
-        {
           "title": "中方回应特朗普计划访华",
           "url": "https://www.toutiao.com/trending/7615267437721780267/",
           "source": "今日头条",
@@ -105,6 +105,32 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时04分 ~ 15时02分]"
+        },
+        {
+          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            14,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时43分 ~ 23时49分]"
+        },
+        {
+          "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
+          "url": "https://news.ifeng.com/c/8rSOJi1DH0g",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时35分 ~ 23时49分]"
         },
         {
           "title": "美媒：特朗普在G7通话中称伊朗即将投降，只是伊朗没人能宣布",
@@ -129,31 +155,6 @@
           "time_info": "18时43分"
         },
         {
-          "title": "美国总统特朗普：一旦伊朗战争结束，（美国）经济就会迅速反弹。",
-          "url": "https://wallstreetcn.com/livenews/3069886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时43分 ~ 22时48分]"
-        },
-        {
           "title": "特朗普称必要时将护航霍尔木兹海峡 威胁加大对伊朗打击",
           "url": "https://flash.jin10.com/detail/20260313191927288800",
           "source": "金十数据",
@@ -176,26 +177,15 @@
           "time_info": "12时48分"
         },
         {
-          "title": "美国总统特朗普表示，他的政府将“研究”暂停实施《琼斯法》。",
-          "url": "https://wallstreetcn.com/livenews/3069883",
-          "source": "华尔街见闻-快讯",
+          "title": "白宫官员：美国总统特朗普此前已表示，美国正与古巴进行对话，古巴领导人应达成协议，而这完全可能实现。",
+          "url": "https://flash.jin10.com/detail/20260313233930392800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
-          "url": "https://news.ifeng.com/c/8rSOJi1DH0g",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时35分 ~ 22时48分]"
+          "time_info": "23时49分"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普在G7通话中声称，伊朗“即将投降”。",
@@ -245,6 +235,18 @@
           "time_info": "[10时31分 ~ 15时02分]"
         },
         {
+          "title": "美国总统特朗普：一旦伊朗战争结束，（美国）经济就会迅速反弹。",
+          "url": "https://wallstreetcn.com/livenews/3069886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时49分]"
+        },
+        {
           "title": "哥伦比亚总统府：哥伦比亚总统与美国总统特朗普于周四通了电话。",
           "url": "https://flash.jin10.com/detail/20260313042436372800",
           "source": "金十数据",
@@ -255,6 +257,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 05时38分]"
+        },
+        {
+          "title": "美国总统特朗普表示，他的政府将“研究”暂停实施《琼斯法》。",
+          "url": "https://wallstreetcn.com/livenews/3069883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时49分]"
         },
         {
           "title": "美国总统特朗普：已全面听取关于密歇根犹太会堂袭击事件的简报。",
@@ -282,6 +296,17 @@
           "time_info": "[07时33分 ~ 12时48分]"
         },
         {
+          "title": "欧盟外长高呼“团结对抗特朗普”，业界先哑火了",
+          "url": "https://news.ifeng.com/c/8rT05GsE7jk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时09分 ~ 23时49分]"
+        },
+        {
           "title": "中方就特朗普访华计划准备进展如何？外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32753926",
           "source": "澎湃新闻",
@@ -295,15 +320,15 @@
           "time_info": "[10时31分 ~ 13时53分]"
         },
         {
-          "title": "欧盟外长高呼“团结对抗特朗普”，业界先哑火了",
-          "url": "https://news.ifeng.com/c/8rT05GsE7jk",
-          "source": "凤凰网",
+          "title": "以色列总统称特朗普攻击国家主权",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BB%E5%87%BB%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            9
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时09分 ~ 22时48分]"
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时49分]"
         },
         {
           "title": "特朗普敦促鲍威尔立即降息：不要等到美联储下次开会",
@@ -387,24 +412,13 @@
           "time_info": "10时32分"
         },
         {
-          "title": "以色列总统称特朗普攻击国家主权",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BB%E5%87%BB%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
           "title": "市场消息：美国总统特朗普政府提议让巴西接收在美国被捕的外国人。",
           "url": "https://flash.jin10.com/detail/20260313222101323800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -415,9 +429,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
+        },
+        {
+          "title": "特朗普称正密切监控美国境内的伊朗人",
+          "url": "https://flash.jin10.com/detail/20260313232814161800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们主动出击，以前所未有的力量进行强力打击。我们与美国建立了前所未有的联盟，与我的个人朋友、总统唐纳德·特朗普紧密合作。",
@@ -437,7 +462,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -451,6 +476,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
+        },
+        {
+          "title": "Cameco Corp一度下跌8.9%，Energy Fuels Inc.一度下跌4.4%，特朗普称目前重点不在于获取伊朗铀材料。",
+          "url": "https://wallstreetcn.com/livenews/3069903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗局势）未来一周将对他们予以迎头痛击。",
@@ -503,7 +539,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -514,7 +550,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -525,7 +561,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -580,7 +616,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -629,6 +665,17 @@
           "time_info": "13时53分"
         },
         {
+          "title": "特朗普：我们在无人机防御方面不需要乌克兰的帮助。",
+          "url": "https://flash.jin10.com/detail/20260313230019786800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "报道：特朗普政府拟暂停《琼斯法案》，从而实现平抑油价",
           "url": "https://wallstreetcn.com/livenews/3069017",
           "source": "华尔街见闻-快讯",
@@ -643,7 +690,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -655,8 +702,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时48分 ~ 22时48分]"
+          "appearance_count": 13,
+          "time_info": "[12时48分 ~ 23时49分]"
         },
         {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
@@ -728,6 +775,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 05时38分]"
+        },
+        {
+          "title": "摩根大通：散户投资者对美股首次显露出购买疲劳迹象",
+          "url": "https://wallstreetcn.com/livenews/3069876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时49分]"
         },
         {
           "title": "航空业ETF收跌约4%，与半导体ETF领跌美股行业ETF",
@@ -814,17 +873,6 @@
           "time_info": "[04时41分 ~ 05时38分]"
         },
         {
-          "title": "摩根大通：散户投资者对美股首次显露出购买疲劳迹象",
-          "url": "https://wallstreetcn.com/livenews/3069876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
           "title": "为何油价大涨美股大跌",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E6%B2%B9%E4%BB%B7%E5%A4%A7%E6%B6%A8%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C",
           "source": "bilibili 热搜",
@@ -845,12 +893,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
+        },
+        {
+          "title": "美股高开低走，标普500指数现跌0.15%，纳指现跌0.4%，道指微涨0.07%。",
+          "url": "https://flash.jin10.com/detail/20260313230115209800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美元指数12日上涨",
@@ -873,8 +932,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时09分 ~ 22时48分]"
+          "appearance_count": 4,
+          "time_info": "[21时09分 ~ 23时49分]"
         },
         {
           "title": "周四（3月12日）纽约尾盘，ICE美元指数涨0.50%，报99.750点，全天处于上涨状态，北京时间20:00之前开启一波长时间持续上涨的走势。 彭博美元指数涨0.50%，报1208.86点。",
@@ -899,6 +958,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 03时01分]"
+        },
+        {
+          "title": "美元指数涨幅重新扩大至0.38%，重返100.100点上方。",
+          "url": "https://wallstreetcn.com/livenews/3069893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "纳斯达克100指数转跌，此前一度上涨1%。 标普500指数转跌，此前一度涨0.9%。 现货黄金短线跳水40美元，跌穿5040美元，日内整体跌0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3069890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         }
       ]
     },
@@ -953,9 +1034,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时49分]"
         }
       ]
     }
