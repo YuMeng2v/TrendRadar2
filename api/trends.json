@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T22:54:18.841209+08:00",
-  "total_titles_processed": 1888,
+  "generated_at": "2026-03-19T23:59:57.159062+08:00",
+  "total_titles_processed": 1978,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
@@ -27,8 +27,20 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时51分 ~ 23时59分]"
+        },
+        {
+          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
+          "url": "https://news.ifeng.com/c/8rckc3J46aj",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[16时51分 ~ 22时54分]"
+          "time_info": "[17时52分 ~ 23时59分]"
         },
         {
           "title": "特朗普称对伊行动无需北约和日韩澳帮助，伊朗宣告打击进入\"加速阶段\"、总统证实拉里贾尼身亡",
@@ -40,18 +52,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时16分 ~ 06时37分]"
-        },
-        {
-          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
-          "url": "https://news.ifeng.com/c/8rckc3J46aj",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时52分 ~ 22时54分]"
         },
         {
           "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
@@ -103,6 +103,18 @@
           "time_info": "[10时40分 ~ 16时51分]"
         },
         {
+          "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
+          "url": "https://news.ifeng.com/c/8rcnk4inq8M",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时48分 ~ 23时59分]"
+        },
+        {
           "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
           "url": "https://news.ifeng.com/c/8rcHthVvS8A",
           "source": "凤凰网",
@@ -127,6 +139,18 @@
           "time_info": "[01时16分 ~ 10时40分]"
         },
         {
+          "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
+          "url": "https://wallstreetcn.com/articles/3767896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时51分 ~ 23时59分]"
+        },
+        {
           "title": "高市早苗访美，特朗普的案板正急缺一块肉",
           "url": "https://news.ifeng.com/c/8rbMFFfJk0c",
           "source": "凤凰网",
@@ -136,30 +160,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时16分 ~ 10时40分]"
-        },
-        {
-          "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
-          "url": "https://news.ifeng.com/c/8rcnk4inq8M",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时48分 ~ 22时54分]"
-        },
-        {
-          "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
-          "url": "https://wallstreetcn.com/articles/3767896",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时51分 ~ 22时54分]"
         },
         {
           "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
@@ -256,6 +256,17 @@
           "time_info": "[10时40分 ~ 14时04分]"
         },
         {
+          "title": "被特朗普抱怨不积极，默茨最新表态",
+          "url": "https://news.ifeng.com/c/8rd2LaEzlmg",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 23时59分]"
+        },
+        {
           "title": "美国官员：特朗普暂不想再袭伊朗能源设施",
           "url": "https://wallstreetcn.com/livenews/3072708",
           "source": "华尔街见闻-快讯",
@@ -277,17 +288,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
-        },
-        {
-          "title": "被特朗普抱怨不积极，默茨最新表态",
-          "url": "https://news.ifeng.com/c/8rd2LaEzlmg",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
         },
         {
           "title": "知情人士：特朗普政府或强推官方保险！想要美军护航要“先买单”？",
@@ -321,6 +321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
+        },
+        {
+          "title": "美国总统特朗普在白宫欢迎日本首相高市早苗。",
+          "url": "https://flash.jin10.com/detail/20260319233725629800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "美参议院未通过限制特朗普对伊动武法案 民主党扬言继续施压",
@@ -373,7 +384,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -406,7 +417,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -472,7 +483,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -516,7 +527,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -675,6 +686,19 @@
           "time_info": "[04时43分 ~ 06时37分]"
         },
         {
+          "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2318602",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时16分 ~ 23时59分]"
+        },
+        {
           "title": "日常消费品ETF收跌超2.4%，与可选消费ETF领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3072682",
           "source": "华尔街见闻-快讯",
@@ -686,18 +710,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时43分 ~ 06时37分]"
-        },
-        {
-          "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2318602",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时16分 ~ 22时54分]"
         },
         {
           "title": "美股期货跌幅扩大，标普500指数期货跌幅扩大至0.7%，纳指期货跌0.8%，均至日内低点。",
@@ -886,11 +898,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时16分 ~ 22时54分]"
+          "appearance_count": 3,
+          "time_info": "[21时16分 ~ 23时59分]"
         }
       ]
     },
