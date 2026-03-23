@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T17:04:00.923085+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2026-03-23T18:58:11.188663+08:00",
+  "total_titles_processed": 1315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "周末要闻汇总：特朗普考虑逐步降级对伊朗的军事行动；宇树IPO申请获受理",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 17时04分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 18时58分]"
         },
         {
           "title": "美媒：特朗普团队已密谋与伊朗“和谈” 细节曝光",
@@ -64,8 +64,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时41分 ~ 17时04分]"
+          "appearance_count": 8,
+          "time_info": "[10时41分 ~ 18时58分]"
         },
         {
           "title": "下周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
@@ -102,6 +102,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时37分 ~ 07时34分]"
+        },
+        {
+          "title": "特朗普最后通牒倒计时！全球股债遭遇“黑色星期一”，黄金跌破4100、白银逼近60",
+          "url": "https://wallstreetcn.com/articles/3768110",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 18时58分]"
         },
         {
           "title": "美以伊战争丨特朗普威胁将伊朗抹去，伊总统回应",
@@ -152,6 +163,19 @@
           "time_info": "[00时37分 ~ 07时34分]"
         },
         {
+          "title": "特朗普团队被曝密谋与伊朗「和谈」，伊朗媒体称伊官员提出停战六项条件，双方做好谈判准备了吗？",
+          "url": "https://www.zhihu.com/question/2019150605713716559",
+          "source": "知乎",
+          "ranks": [
+            11,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时41分 ~ 18时58分]"
+        },
+        {
           "title": "凤凰女记者：德黑兰被炸如同地震，特朗普的威胁致民众恐慌",
           "url": "https://news.ifeng.com/c/8rj85g0QAfQ",
           "source": "凤凰网",
@@ -163,15 +187,29 @@
           "time_info": "[15时18分 ~ 17时04分]"
         },
         {
-          "title": "特朗普最后通牒倒计时！全球股债遭遇“黑色星期一”，黄金跌破4100、白银逼近60",
-          "url": "https://wallstreetcn.com/articles/3768110",
+          "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
+          "url": "https://wallstreetcn.com/articles/3768111",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            10,
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 17时04分]"
+          "appearance_count": 7,
+          "time_info": "[13时07分 ~ 18时58分]"
+        },
+        {
+          "title": "特朗普下最后通牒后双方僵持 中东民用基础设施面临“生死局”",
+          "url": "https://www.cls.cn/detail/2321109",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 18时58分]"
         },
         {
           "title": "特朗普最后通牒还剩24小时，贝森特称“先升级再缓和”，亚洲股市重挫、黄金再跌3%",
@@ -185,16 +223,15 @@
           "time_info": "[13时07分 ~ 13时08分]"
         },
         {
-          "title": "特朗普团队被曝密谋与伊朗「和谈」，伊朗媒体称伊官员提出停战六项条件，双方做好谈判准备了吗？",
-          "url": "https://www.zhihu.com/question/2019150605713716559",
-          "source": "知乎",
+          "title": "特朗普对伊朗48小时最后通牒将至，专家：双方恐互袭电力设施",
+          "url": "https://news.ifeng.com/c/8rjRZBJrthr",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            14
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时41分 ~ 17时04分]"
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 18时58分]"
         },
         {
           "title": "德国总理默茨与美国总统特朗普通话，讨论中东及乌克兰局势",
@@ -259,31 +296,6 @@
           "time_info": "10时41分"
         },
         {
-          "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
-          "url": "https://wallstreetcn.com/articles/3768111",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时07分 ~ 17时04分]"
-        },
-        {
-          "title": "特朗普下最后通牒后双方僵持 中东民用基础设施面临“生死局”",
-          "url": "https://www.cls.cn/detail/2321109",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 17时04分]"
-        },
-        {
           "title": "伊朗总统回应特朗普将伊朗抹去威胁",
           "url": "https://flash.jin10.com/detail/20260322225654984800",
           "source": "金十数据",
@@ -294,6 +306,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时37分 ~ 04时34分]"
+        },
+        {
+          "title": "特朗普骂北约“纸老虎”，吕特不敢回击还说“理解”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32813357",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 18时58分]"
         },
         {
           "title": "“害怕接电话” 特朗普发视频嘲讽英首相",
@@ -307,6 +332,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时34分 ~ 06时31分]"
+        },
+        {
+          "title": "中方回应特朗普向伊朗发出最后通牒",
+          "url": "https://www.toutiao.com/trending/7620351961246924809/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 18时58分]"
         },
         {
           "title": "伊朗提出4项措施回应特朗普威胁",
@@ -353,29 +390,6 @@
           "time_info": "[00时37分 ~ 03时31分]"
         },
         {
-          "title": "特朗普骂北约“纸老虎”，吕特不敢回击还说“理解”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32813357",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 17时04分]"
-        },
-        {
-          "title": "中方回应特朗普向伊朗发出最后通牒",
-          "url": "https://www.toutiao.com/trending/7620351961246924809/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 17时04分]"
-        },
-        {
           "title": "美媒：特朗普团队已开始谋划与伊朗“和谈”事宜",
           "url": "https://wallstreetcn.com/livenews/3074555",
           "source": "华尔街见闻-快讯",
@@ -415,7 +429,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -532,8 +546,25 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时41分 ~ 17时04分]"
+          "appearance_count": 8,
+          "time_info": "[10时41分 ~ 18时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数升破100，日内上涨0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3075075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         }
       ]
     }
