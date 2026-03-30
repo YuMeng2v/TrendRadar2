@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T17:19:34.082375+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-03-30T19:07:52.971051+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
@@ -67,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 17时19分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 19时07分]"
         },
         {
           "title": "特朗普：与伊朗“可能”很快达成停火协议",
@@ -97,6 +97,29 @@
           "time_info": "[00时41分 ~ 06时37分]"
         },
         {
+          "title": "特朗普说中东冲突或很快停止，外交部回应",
+          "url": "https://news.ifeng.com/c/8ruuG1aRNqh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 19时07分]"
+        },
+        {
+          "title": "特朗普称伊朗已同意“15点计划”中“大部分内容”",
+          "url": "https://news.ifeng.com/c/8ruabbA1FVs",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 19时07分]"
+        },
+        {
           "title": "美以伊战争丨美媒：特朗普考虑派兵夺取伊朗900斤铀",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -106,17 +129,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
-        },
-        {
-          "title": "特朗普说中东冲突或很快停止，外交部回应",
-          "url": "https://news.ifeng.com/c/8ruuG1aRNqh",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
         },
         {
           "title": "美军酝酿地面战，全美爆发“反特朗普”集会，专家呼吁彻查内幕交易，伊朗议长警告盘前“消息”是圈套！胡塞武装正式参战......后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -152,18 +164,6 @@
           "time_info": "15时50分"
         },
         {
-          "title": "特朗普称伊朗已同意“15点计划”中“大部分内容”",
-          "url": "https://news.ifeng.com/c/8ruabbA1FVs",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 17时19分]"
-        },
-        {
           "title": "美民主党议员抨击特朗普：为打压油价上涨编造谈判谎言",
           "url": "https://flash.jin10.com/detail/20260330065703218800",
           "source": "金十数据",
@@ -181,11 +181,12 @@
           "ranks": [
             13,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 17时19分]"
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 19时07分]"
         },
         {
           "title": "特朗普称伊朗已同意“15点计划”中“大部分内容”",
@@ -194,11 +195,12 @@
           "ranks": [
             17,
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 17时19分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 19时07分]"
         },
         {
           "title": "特朗普私下问：2028，万斯还是鲁比奥？",
@@ -362,11 +364,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            13
+            13,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 17时19分]"
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 19时07分]"
         },
         {
           "title": "豆包谈DeepSeek频繁崩溃",
@@ -386,11 +389,12 @@
           "ranks": [
             12,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 17时19分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 19时07分]"
         },
         {
           "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
@@ -475,7 +479,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
@@ -500,8 +504,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 17时19分]"
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 19时07分]"
+        },
+        {
+          "title": "中东局势升级，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "中东局势升级，日经225收跌2.8%，韩国首尔综指收跌3%，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
@@ -510,7 +525,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -565,7 +580,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "新算法公布,谷歌干崩股市",
@@ -597,8 +612,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 17时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 19时07分]"
+        },
+        {
+          "title": "带崩全球存储股的谷歌论文陷学术争议，中国学者指其“严重失实”且“知错不改”：使用了我们的方法，但刻意回避相似性",
+          "url": "https://wallstreetcn.com/livenews/3079231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         }
       ]
     }
