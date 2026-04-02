@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T06:37:28.660720+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-04-03T07:40:20.757436+08:00",
+  "total_titles_processed": 631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时40分]"
         },
         {
           "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时40分]"
         },
         {
           "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时40分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时40分]"
         },
         {
           "title": "伊朗强硬回应特朗普",
@@ -62,8 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时40分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
@@ -77,26 +77,18 @@
           "time_info": "01时01分"
         },
         {
-          "title": "机构：特朗普对伊战争讲话为油市蒙上阴影，到4月底超6亿桶石油供应面临风险",
-          "url": "https://wallstreetcn.com/livenews/3081824",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普讲话后金银直线跳水",
+          "url": "https://www.douyin.com/hot/2452230",
+          "source": "抖音",
           "ranks": [
-            2
+            27,
+            25,
+            22,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "特朗普刚说“炸回石器时代”，美军就把伊朗大桥炸了",
-          "url": "https://flash.jin10.com/detail/20260403061620774800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时57分 ~ 07时40分]"
         },
         {
           "title": "美国总统特朗普：美国司法部长帕姆·邦迪将转任一份在私营部门非常需要且重要的新工作，具体日期将于近期公布，副司法部长托德·布兰奇将接任代理司法部长一职。",
@@ -119,19 +111,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
-        },
-        {
-          "title": "特朗普讲话后金银直线跳水",
-          "url": "https://www.douyin.com/hot/2452230",
-          "source": "抖音",
-          "ranks": [
-            27,
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时57分 ~ 06时37分]"
         },
         {
           "title": "特朗普发表讲话谈伊朗战事",
@@ -159,6 +138,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时41分 ~ 06时37分]"
+        },
+        {
+          "title": "机构：特朗普对伊战争讲话为油市蒙上阴影，到4月底超6亿桶石油供应面临风险",
+          "url": "https://wallstreetcn.com/livenews/3081824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时40分]"
+        },
+        {
+          "title": "特朗普刚说“炸回石器时代”，美军就把伊朗大桥炸了",
+          "url": "https://flash.jin10.com/detail/20260403061620774800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时40分]"
         },
         {
           "title": "美国总统特朗普相信，一旦伊朗战争结束，利率将会下降。（DC Examiner）",
@@ -197,6 +200,18 @@
           "time_info": "[01时57分 ~ 03时05分]"
         },
         {
+          "title": "特朗普放炸桥视频施压，伊朗外长说不会投降",
+          "url": "https://wallstreetcn.com/livenews/3081814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时40分]"
+        },
+        {
           "title": "伊朗外长嘲讽特朗普：石器时代可没有油气",
           "url": "https://flash.jin10.com/detail/20260403035841206800",
           "source": "金十数据",
@@ -231,15 +246,15 @@
           "time_info": "01时57分"
         },
         {
-          "title": "特朗普放炸桥视频施压，伊朗外长说不会投降",
-          "url": "https://wallstreetcn.com/livenews/3081814",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
+          "url": "https://www.cls.cn/detail/2334086",
+          "source": "财联社热门",
           "ranks": [
-            10
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时37分"
+          "time_info": "07时40分"
         },
         {
           "title": "据CNN：美国总统特朗普免去帕姆·邦迪美国司法部长职务。",
@@ -334,8 +349,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时40分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -377,6 +392,18 @@
           "time_info": "[01时01分 ~ 06时37分]"
         },
         {
+          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
+          "url": "https://www.cls.cn/detail/2334066",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时40分]"
+        },
+        {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260403003135168800",
           "source": "金十数据",
@@ -397,17 +424,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
-          "url": "https://www.cls.cn/detail/2334066",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
         },
         {
           "title": "美股大类资产类ETF多数收涨，布油基金涨超7.5%",
@@ -473,6 +489,17 @@
           "time_info": "[04时41分 ~ 05时43分]"
         },
         {
+          "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
+          "url": "https://wallstreetcn.com/articles/3769043",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时05分 ~ 07时40分]"
+        },
+        {
           "title": "法国10年期国债收益率在美股开盘前后快速回吐涨幅，本周已跌15个基点",
           "url": "https://wallstreetcn.com/livenews/3081707",
           "source": "华尔街见闻-快讯",
@@ -483,17 +510,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 01时57分]"
-        },
-        {
-          "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
-          "url": "https://wallstreetcn.com/articles/3769043",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
         }
       ]
     },
@@ -509,8 +525,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时40分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -521,11 +537,12 @@
             22,
             12,
             17,
-            26
+            26,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时40分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -539,8 +556,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时40分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -553,8 +570,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时40分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -565,11 +582,12 @@
             22,
             20,
             24,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时40分]"
         }
       ]
     },
