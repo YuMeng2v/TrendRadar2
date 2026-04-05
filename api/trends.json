@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T16:52:45.104758+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2026-04-05T17:44:23.016091+08:00",
+  "total_titles_processed": 1097,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "美以伊战争丨特朗普发通牒：地狱将降临到伊朗头上",
@@ -84,6 +84,18 @@
           "time_info": "[05时36分 ~ 10时53分]"
         },
         {
+          "title": "特朗普警告伊朗：还剩“48小时”，伊朗军方回应“让侵略者付出代价”，战争升级至海湾“基础设施”？",
+          "url": "https://wallstreetcn.com/articles/3769270",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时53分 ~ 17时44分]"
+        },
+        {
           "title": "特朗普疑似嘲讽盟友的帖子得到了伊朗驻英国使馆的回复",
           "url": "https://flash.jin10.com/detail/20260405042122287800",
           "source": "金十数据",
@@ -120,18 +132,6 @@
           "time_info": "[13时18分 ~ 15时14分]"
         },
         {
-          "title": "特朗普警告伊朗：还剩“48小时”，伊朗军方回应“让侵略者付出代价”，战争升级至海湾“基础设施”？",
-          "url": "https://wallstreetcn.com/articles/3769270",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 16时52分]"
-        },
-        {
           "title": "自周三以来“未公开露面”！特朗普“一反常态”低调，周末“不停工作”连海湖庄园都不去了",
           "url": "https://wallstreetcn.com/articles/3769276",
           "source": "华尔街见闻",
@@ -141,8 +141,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 16时52分]"
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 17时44分]"
+        },
+        {
+          "title": "【早报】中国驻以使馆提醒：远离民用基础设施；特朗普再次警告伊朗",
+          "url": "https://www.cls.cn/detail/2335441",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时53分 ~ 17时44分]"
         },
         {
           "title": "特朗普就其移民政策发表最新讲话",
@@ -172,19 +186,6 @@
           "time_info": "[13时18分 ~ 15时14分]"
         },
         {
-          "title": "【早报】中国驻以使馆提醒：远离民用基础设施；特朗普再次警告伊朗",
-          "url": "https://www.cls.cn/detail/2335441",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 16时52分]"
-        },
-        {
           "title": "美媒：特朗普在白宫战情室跟进失踪美军飞行员救援行动",
           "url": "https://flash.jin10.com/detail/20260405124830248800",
           "source": "金十数据",
@@ -203,11 +204,12 @@
           "ranks": [
             13,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 16时52分]"
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 17时44分]"
         },
         {
           "title": "伊朗军方拒绝特朗普“48小时”通牒",
@@ -216,11 +218,25 @@
           "ranks": [
             12,
             10,
-            9
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 17时44分]"
+        },
+        {
+          "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
+          "url": "https://www.cls.cn/detail/2335478",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时18分 ~ 16时52分]"
+          "time_info": "[15时14分 ~ 17时44分]"
         },
         {
           "title": "特朗普警告伊朗：若48小时内不重新开放霍尔木兹海峡 将进一步升级行动",
@@ -245,18 +261,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时18分 ~ 15时14分]"
-        },
-        {
-          "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
-          "url": "https://www.cls.cn/detail/2335478",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 16时52分]"
         },
         {
           "title": "美国总统特朗普：根据我的指示，美国军方出动了数十架战机，携带世界上“最致命的武器”，将失踪的飞行员救回。他受了伤，但未来会完全康复。",
@@ -328,6 +332,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "特朗普想趁机卖油，美媒：结果可能让他后悔莫及",
+          "url": "https://news.ifeng.com/c/8s4udkTiAOL",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "特朗普发文：第二名失踪的美军飞行员“已平安无事”",
@@ -453,6 +468,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
+          "url": "https://www.zhihu.com/question/2022702768251564692",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -486,8 +518,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 16时52分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 17时44分]"
         }
       ]
     }
