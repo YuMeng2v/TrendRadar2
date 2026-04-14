@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-14T10:57:01.990244+08:00",
-  "total_titles_processed": 857,
+  "generated_at": "2026-04-14T13:31:17.770325+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
+        {
+          "title": "特朗普：伊朗致电美方说希望达成协议",
+          "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[05时00分 ~ 13时31分]"
+        },
         {
           "title": "特朗普呼吁中国购买美国和委内瑞拉石油，中方回应",
           "url": "https://www.cls.cn/detail/2342732",
@@ -21,16 +33,17 @@
           "time_info": "[01时09分 ~ 10时57分]"
         },
         {
-          "title": "特朗普：伊朗致电美方说希望达成协议",
-          "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
-          "source": "凤凰网",
+          "title": "一个颠覆性观点：制造能源危机，特朗普蓄谋已久！",
+          "url": "https://wallstreetcn.com/articles/3769823",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            3
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时00分 ~ 10时57分]"
+          "appearance_count": 11,
+          "time_info": "[01时09分 ~ 13时31分]"
         },
         {
           "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
@@ -57,17 +70,16 @@
           "time_info": "[01时09分 ~ 07时51分]"
         },
         {
-          "title": "一个颠覆性观点：制造能源危机，特朗普蓄谋已久！",
-          "url": "https://wallstreetcn.com/articles/3769823",
+          "title": "特朗普宣布：今晚10点就封锁！霍尔木兹海峡再次完全中断，两艘船紧急掉头",
+          "url": "https://wallstreetcn.com/articles/3769804",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6,
-            5
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时09分 ~ 10时57分]"
+          "appearance_count": 11,
+          "time_info": "[01时09分 ~ 13时31分]"
         },
         {
           "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
@@ -82,18 +94,6 @@
           "time_info": "[01时09分 ~ 07时51分]"
         },
         {
-          "title": "特朗普宣布：今晚10点就封锁！霍尔木兹海峡再次完全中断，两艘船紧急掉头",
-          "url": "https://wallstreetcn.com/articles/3769804",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时09分 ~ 10时57分]"
-        },
-        {
           "title": "特朗普警告伊朗攻击艇勿靠近封锁线",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E6%94%BB%E5%87%BB%E8%89%87%E5%8B%BF%E9%9D%A0%E8%BF%91%E5%B0%81%E9%94%81%E7%BA%BF%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -106,6 +106,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时09分 ~ 07时51分]"
+        },
+        {
+          "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
+          "url": "https://www.cls.cn/detail/2342892",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时51分 ~ 13时31分]"
+        },
+        {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时51分 ~ 13时31分]"
         },
         {
           "title": "布林肯阴阳特朗普：他选择退让或是因为厌倦了“胜利”",
@@ -206,18 +230,6 @@
           "time_info": "01时09分"
         },
         {
-          "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
-          "url": "https://www.cls.cn/detail/2342892",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时51分 ~ 10时57分]"
-        },
-        {
           "title": "美联邦法官驳回特朗普对《华尔街日报》的诽谤诉讼",
           "url": "https://wallstreetcn.com/livenews/3087172",
           "source": "华尔街见闻-快讯",
@@ -227,18 +239,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
-        },
-        {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时51分 ~ 10时57分]"
         },
         {
           "title": "美国总统特朗普：4月12日，34艘船只通过霍尔木兹海峡。",
@@ -261,6 +261,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "特朗普发了一张图，让西方大吃一惊",
+          "url": "https://news.ifeng.com/c/8sJFcW7Qqjq",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 13时31分]"
+        },
+        {
+          "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
+          "url": "https://www.cls.cn/detail/2342938",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 13时31分]"
         },
         {
           "title": "伊朗媒体：特朗普声称“34艘船只通过霍尔木兹海峡”说法不实",
@@ -311,15 +334,27 @@
           "time_info": "[05时58分 ~ 06时55分]"
         },
         {
-          "title": "特朗普发了一张图，让西方大吃一惊",
-          "url": "https://news.ifeng.com/c/8sJFcW7Qqjq",
-          "source": "凤凰网",
+          "title": "特朗普：伊朗“合适的人”致电说“希望达成协议”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32963970",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 13时31分]"
+        },
+        {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 13时31分]"
         },
         {
           "title": "舒默列举特朗普五大“史诗级失败”",
@@ -334,17 +369,6 @@
           "time_info": "[05时58分 ~ 06时55分]"
         },
         {
-          "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
-          "url": "https://www.cls.cn/detail/2342938",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
-        },
-        {
           "title": "特朗普重申将封锁进出伊朗港口船只 中方回应",
           "url": "https://www.cls.cn/detail/2342207",
           "source": "财联社热门",
@@ -357,26 +381,26 @@
           "time_info": "[01时09分 ~ 03时20分]"
         },
         {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
           "ranks": [
-            17
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
+          "time_info": "[13时30分 ~ 13时31分]"
         },
         {
-          "title": "特朗普：伊朗“合适的人”致电说“希望达成协议”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32963970",
+          "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32964974",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
+          "time_info": "[13时30分 ~ 13时31分]"
         },
         {
           "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
@@ -759,6 +783,20 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "美股收盘：标普纳指均涨超1% 高速互联、存储、CPU牛股领涨",
+          "url": "https://www.cls.cn/detail/2342867",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时55分 ~ 13时31分]"
+        },
+        {
           "title": "美国“封锁”逼近，美股指低开，石油股上涨，布油破百，黄金回调，铝价四年新高",
           "url": "https://wallstreetcn.com/articles/3769784",
           "source": "华尔街见闻",
@@ -768,19 +806,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时09分 ~ 05时01分]"
-        },
-        {
-          "title": "美股收盘：标普纳指均涨超1% 高速互联、存储、CPU牛股领涨",
-          "url": "https://www.cls.cn/detail/2342867",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时55分 ~ 10时57分]"
         },
         {
           "title": "美股七巨头收盘播报｜周一（4月13日），美国科技股七巨头（Magnificent 7）指数涨0.91%，报197.22点，尾盘加速上涨，收于日高附近。 “超大”市值科技股指数涨1.66%，报381.51点，整体持续走高，也收于日高附近。",
@@ -953,8 +978,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI伦敦设立永久办公室",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%BC%A6%E6%95%A6%E8%AE%BE%E7%AB%8B%E6%B0%B8%E4%B9%85%E5%8A%9E%E5%85%AC%E5%AE%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时30分 ~ 13时31分]"
+        },
         {
           "title": "美国FBI局长：今天早上，FBI及合作伙伴在得州开展了一项行动，拘留了一名与上周五早上袭击OpenAI首席执行官Sam Altman家有关的嫌疑人。",
           "url": "https://flash.jin10.com/detail/20260414043421131800",
@@ -966,6 +1002,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 05时58分]"
+        },
+        {
+          "title": "OpenAI估值8520亿美元遭质疑：押注企业市场，投资人直言“失焦”",
+          "url": "https://flash.jin10.com/detail/20260414124747645800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "随着OpenAI战略转型，投资者对其8520亿美元的估值提出质疑，部分投资者称，这些变化可能使OpenAI容易受到Anthropic和谷歌的冲击。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3087405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     },
