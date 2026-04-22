@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T13:32:22.444690+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-04-22T15:57:36.037965+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
         {
           "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时20分 ~ 13时32分]"
+          "appearance_count": 11,
+          "time_info": "[03时20分 ~ 15时57分]"
         },
         {
           "title": "特朗普一顿迷惑操作搞懵美媒，美官员：只会添乱",
@@ -39,8 +39,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时10分 ~ 13时32分]"
+          "appearance_count": 12,
+          "time_info": "[01时10分 ~ 15时57分]"
+        },
+        {
+          "title": "【早报】特朗普：延长停火期限；伊朗：拒绝出席伊美第二轮谈判",
+          "url": "https://www.cls.cn/detail/2351434",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时40分 ~ 15时57分]"
         },
         {
           "title": "特朗普宣布延长停火期限 直至伊朗拿出一份“统一谈判方案”",
@@ -54,18 +66,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时42分 ~ 13时32分]"
-        },
-        {
-          "title": "【早报】特朗普：延长停火期限；伊朗：拒绝出席伊美第二轮谈判",
-          "url": "https://www.cls.cn/detail/2351434",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时40分 ~ 13时32分]"
         },
         {
           "title": "特朗普称美伊停火到期将继续轰炸",
@@ -129,6 +129,18 @@
           "time_info": "[01时10分 ~ 07时40分]"
         },
         {
+          "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
+          "url": "https://wallstreetcn.com/articles/3770539",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时40分 ~ 15时57分]"
+        },
+        {
           "title": "特朗普：预计美伊将达成“重大协议”，如果沃什不迅速降息将会感到失望",
           "url": "https://wallstreetcn.com/articles/3770519",
           "source": "华尔街见闻",
@@ -140,16 +152,15 @@
           "time_info": "[03时20分 ~ 07时40分]"
         },
         {
-          "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
-          "url": "https://wallstreetcn.com/articles/3770539",
-          "source": "华尔街见闻",
+          "title": "伊朗：特朗普延长停火毫无意义",
+          "url": "https://news.ifeng.com/c/8sWi9cCO6x5",
+          "source": "凤凰网",
           "ranks": [
-            6,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时40分 ~ 13时32分]"
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 15时57分]"
         },
         {
           "title": "从“准备轰炸”到“无限期停火”！特朗普极限反转，伊朗不买账",
@@ -161,17 +172,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
-        },
-        {
-          "title": "伊朗：特朗普延长停火毫无意义",
-          "url": "https://news.ifeng.com/c/8sWi9cCO6x5",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
         },
         {
           "title": "特朗普延长停火期限",
@@ -194,6 +194,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
+          "url": "https://wallstreetcn.com/articles/3770527",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 15时57分]"
         },
         {
           "title": "标普500 E-mini期货跌幅收窄至0.3%，特朗普称将延长美国与伊朗的停火协议。",
@@ -232,16 +244,17 @@
           "time_info": "[06时43分 ~ 07时40分]"
         },
         {
-          "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
-          "url": "https://wallstreetcn.com/articles/3770527",
-          "source": "华尔街见闻",
+          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            8
+            18,
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 15时57分]"
         },
         {
           "title": "特朗普宣布延长同伊朗的停火",
@@ -250,18 +263,6 @@
           "ranks": [
             14,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 13时32分]"
-        },
-        {
-          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            14
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -454,6 +455,17 @@
           "time_info": "07时40分"
         },
         {
+          "title": "特朗普就关税退款发警告",
+          "url": "https://news.ifeng.com/c/8sWa8XCzzKG",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
           "title": "特朗普言论反复无常 市场忧中东动荡股指齐跌",
           "url": "https://flash.jin10.com/detail/20260422102556536800",
           "source": "金十数据",
@@ -509,6 +521,17 @@
           "time_info": "04时59分"
         },
         {
+          "title": "特朗普延长与伊朗停火，外交部：支持相关方实现全面持久停火止战",
+          "url": "https://wallstreetcn.com/livenews/3092394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
           "title": "特朗普“神助攻”？ 加拿大征兵创下三十年新高",
           "url": "https://wallstreetcn.com/livenews/3092033",
           "source": "华尔街见闻-快讯",
@@ -526,9 +549,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "特朗普延长与伊朗停火，外交部：支持相关方实现全面持久停火止战",
+          "url": "https://flash.jin10.com/detail/20260422153117045800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "美联储主席提名人沃什：在美联储理事库克（Lisa Cook）被美国总统特朗普的政府起诉一事上，让我介入是不合适的。 如果提名资格获得确认，将遵循美国最高法院的意见。",
@@ -589,7 +623,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
@@ -641,6 +675,17 @@
           "time_info": "[04时58分 ~ 06时43分]"
         },
         {
+          "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3770463",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时40分 ~ 15时57分]"
+        },
+        {
           "title": "特朗普称美伊将达成重大协议 美股三大期指小幅上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2351163",
           "source": "财联社热门",
@@ -653,17 +698,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时10分 ~ 07时40分]"
-        },
-        {
-          "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3770463",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时40分 ~ 13时32分]"
         },
         {
           "title": "美股三大股指期货周三高开，纳指期货涨0.4%；现货金银同样走高，黄金上涨0.1%，白银上涨0.5%。",
@@ -688,6 +722,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时43分]"
+        },
+        {
+          "title": "“美股暴跌20%”、“200美元油价”情景没出现？特朗普直言“很惊讶”",
+          "url": "https://www.cls.cn/detail/2351488",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "周二（4月21日），美股行业ETF普遍收跌，全球航空业ETF收跌2.90%，公用事业ETF、区域银行ETF、银行业ETF、医疗业ETF、生物科技指数ETF跌1.75%-1.01%，半导体ETF涨0.15%，能源业ETF涨1.45%。",
@@ -746,7 +791,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -757,7 +802,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -829,7 +874,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         }
