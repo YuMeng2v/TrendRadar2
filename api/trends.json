@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T08:03:29.875035+08:00",
-  "total_titles_processed": 595,
+  "generated_at": "2026-04-29T12:32:37.314252+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 33,
       "titles": [
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 08时03分]"
+          "appearance_count": 7,
+          "time_info": "[01时50分 ~ 12时32分]"
         },
         {
           "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
@@ -26,11 +27,12 @@
           "ranks": [
             18,
             19,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 08时03分]"
+          "appearance_count": 7,
+          "time_info": "[01时50分 ~ 12时32分]"
         },
         {
           "title": "因与特朗普存在分歧，美国驻乌克兰大使即将离任",
@@ -80,6 +82,18 @@
           "time_info": "[07时01分 ~ 08时03分]"
         },
         {
+          "title": "美最新民调显示特朗普支持率跌至任内新低 | 环球市场",
+          "url": "https://www.cls.cn/detail/2358895",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 12时32分]"
+        },
+        {
           "title": "因与特朗普分歧加剧，美驻乌临时代办将离任",
           "url": "https://wallstreetcn.com/livenews/3096049",
           "source": "华尔街见闻-快讯",
@@ -92,7 +106,29 @@
           "time_info": "[07时01分 ~ 08时03分]"
         },
         {
+          "title": "美伊极致拉扯：伊朗或因特朗普不满调整方案，美国禁止向伊缴纳“通行费”！",
+          "url": "https://www.cls.cn/detail/2358925",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "伊朗战争丨受战事影响，特朗普支持率跌至任内新低",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "伊朗战争丨特朗普：要准备好长期封锁伊朗",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
@@ -100,7 +136,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时03分"
+          "time_info": "12时32分"
         },
         {
           "title": "美国情报机构研判伊朗将如何回应特朗普单方面宣布胜利",
@@ -112,6 +148,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "民调：特朗普支持率跌至任内新低",
+          "url": "https://www.toutiao.com/trending/7633688125021634602/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "星巴克：（美国总统特朗普造成的）关税压力和咖啡价格对今年后期的影响将是轻微的。",
@@ -131,9 +178,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
+          "url": "https://www.cls.cn/detail/2359134",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "纪念建国250周年，美国将发行印有特朗普肖像的护照(图)",
+          "url": "https://news.ifeng.com/c/8si2qqUHRAp",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "美参议院否决限制特朗普对古巴动武决议",
@@ -142,7 +211,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -158,15 +227,26 @@
           "time_info": "01时50分"
         },
         {
-          "title": "美最新民调显示特朗普支持率跌至任内新低 | 环球市场",
-          "url": "https://www.cls.cn/detail/2358895",
+          "title": "特朗普再次无视英国王室规矩",
+          "url": "https://www.douyin.com/hot/2482526",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "特朗普：美国准备长期封锁伊朗",
+          "url": "https://www.cls.cn/detail/2358979",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时03分"
+          "time_info": "12时32分"
         },
         {
           "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
@@ -219,7 +299,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -235,6 +315,17 @@
           "time_info": "03时47分"
         },
         {
+          "title": "特朗普支持率降至任内新低",
+          "url": "https://www.douyin.com/hot/2482851",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "美国驻乌克兰大使将因与美国总统特朗普的分歧而离职。",
           "url": "https://flash.jin10.com/detail/20260429024103001800",
           "source": "金十数据",
@@ -246,6 +337,17 @@
           "time_info": "03时47分"
         },
         {
+          "title": "美国务院将发行印有特朗普肖像的限量版护照",
+          "url": "https://wallstreetcn.com/livenews/3096170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "特朗普回应德国总理嘲笑：他根本不懂自己在说什么",
           "url": "https://flash.jin10.com/detail/20260429023026738800",
           "source": "金十数据",
@@ -255,6 +357,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "据CNN：特朗普将在4月29日下午两点（北京时间次日凌晨两点）在椭圆形办公室与阿尔忒弥斯二号任务的团队进行会面。",
+          "url": "https://flash.jin10.com/detail/20260429113047793800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "Robinhood预警特朗普账户相关支出，股价盘后下跌",
@@ -271,8 +384,20 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2358855",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时00分 ~ 12时32分]"
+        },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
           "url": "https://www.cls.cn/detail/2358592",
@@ -310,15 +435,15 @@
           "time_info": "[01时50分 ~ 05时11分]"
         },
         {
-          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2358855",
-          "source": "财联社热门",
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时00分 ~ 08时03分]"
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 12时32分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -332,17 +457,6 @@
           "time_info": "[07时00分 ~ 07时01分]"
         },
         {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        },
-        {
           "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
           "url": "https://wallstreetcn.com/articles/3771151",
           "source": "华尔街见闻",
@@ -351,8 +465,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时00分 ~ 08时03分]"
+          "appearance_count": 4,
+          "time_info": "[07时00分 ~ 12时32分]"
         },
         {
           "title": "据The Information：OpenAI预计今年将有1.12亿用户订阅ChatGPT Go。",
@@ -401,6 +515,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时03分]"
+        },
+        {
+          "title": "马斯克控诉“慈善被掠夺”，OpenAI反驳其想要“王国的钥匙”",
+          "url": "https://flash.jin10.com/detail/20260429115733020800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "OpenAI：华尔街日报的报道是标题党，公司各项业务“火力全开”",
@@ -467,6 +592,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "OpenAI“朋友圈”遭市场重估！",
+          "url": "https://flash.jin10.com/detail/20260429113419027800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "市场分析：科技股抛售潮折射出OpenAI的巨大影响力",
@@ -565,6 +701,45 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
+          "url": "https://www.zhihu.com/question/2031729357580919027",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 07时01分]"
+        },
+        {
+          "title": "DeepSeekV4Pro优惠延期",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4Pro%E4%BC%98%E6%83%A0%E5%BB%B6%E6%9C%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "如何评价 DeepSeek V4 降价的事？",
+          "url": "https://www.zhihu.com/question/2032100000558229357",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -600,34 +775,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
-          "url": "https://www.zhihu.com/question/2031729357580919027",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时50分 ~ 07时01分]"
-        },
-        {
-          "title": "如何评价 DeepSeek V4 降价的事？",
-          "url": "https://www.zhihu.com/question/2032100000558229357",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
         }
       ]
     },
