@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T19:12:03.317018+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-05-01T21:28:17.433701+08:00",
+  "total_titles_processed": 1399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 74,
       "titles": [
         {
           "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
@@ -33,8 +33,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时05分 ~ 19时12分]"
+          "appearance_count": 12,
+          "time_info": "[05时05分 ~ 21时28分]"
         },
         {
           "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
@@ -106,6 +106,18 @@
           "time_info": "[11时56分 ~ 14时41分]"
         },
         {
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时56分 ~ 21时28分]"
+        },
+        {
           "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
           "source": "澎湃新闻",
@@ -129,18 +141,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时25分 ~ 07时57分]"
-        },
-        {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时56分 ~ 19时12分]"
         },
         {
           "title": "美国总统特朗普：试图以某种方式拯救伊朗。",
@@ -237,7 +237,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -297,6 +297,17 @@
           "time_info": "03时41分"
         },
         {
+          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
+          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时05分 ~ 21时28分]"
+        },
+        {
           "title": "特朗普称已“摧毁”伊朗核能力，仅少数人知晓谈判实际进展",
           "url": "https://wallstreetcn.com/livenews/3097761",
           "source": "华尔街见闻-快讯",
@@ -345,17 +356,6 @@
           "time_info": "[05时05分 ~ 06时57分]"
         },
         {
-          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
-          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时05分 ~ 19时12分]"
-        },
-        {
           "title": "“美国不惜一切代价想得到钨矿”，特朗普的儿子有新动作",
           "url": "https://news.ifeng.com/c/8sleYIiCFoz",
           "source": "凤凰网",
@@ -367,6 +367,18 @@
           "time_info": "[11时56分 ~ 14时41分]"
         },
         {
+          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 21时28分]"
+        },
+        {
           "title": "特朗普：大多数人说我更适合从政，但其实我最擅长搞建设",
           "url": "https://v.ifeng.com/c/8slZgmeHYf5",
           "source": "凤凰网",
@@ -376,6 +388,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时56分 ~ 14时41分]"
+        },
+        {
+          "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
+          "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 21时28分]"
         },
         {
           "title": "特朗普称只有少数人知晓美伊谈判实际进展",
@@ -390,17 +413,6 @@
           "time_info": "[06时57分 ~ 07时57分]"
         },
         {
-          "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
-          "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 19时12分]"
-        },
-        {
           "title": "特朗普：只有少数人知晓美伊谈判实际进展",
           "url": "https://wallstreetcn.com/livenews/3097733",
           "source": "华尔街见闻-快讯",
@@ -411,17 +423,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 07时57分]"
-        },
-        {
-          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 19时12分]"
         },
         {
           "title": "美国总统特朗普签署许可，授权通过输油管线Bridger Pipeline将加拿大石油供应到怀俄明州。 这将在美国联邦政府层面为跨境的Bridger项目建设、衔接、运营扫清障碍。",
@@ -645,6 +646,17 @@
           "time_info": "03时41分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-01）",
+          "url": "https://flash.jin10.com/detail/20260501203201767800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉非常出色，现在我们在伊朗也正在做同样的事情。",
           "url": "https://flash.jin10.com/detail/20260501031220754800",
           "source": "金十数据",
@@ -695,7 +707,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -835,7 +847,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
@@ -873,13 +885,24 @@
           "time_info": "05时06分"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3097909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "埃克森美孚第一季度收入及其他收益851.4亿美元。 第一季度调整后每股收益1.16美元，预估0.96美元。 埃克森美孚美股盘前涨近2%。",
           "url": "https://wallstreetcn.com/livenews/3097873",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -900,11 +923,12 @@
           "url": "https://wallstreetcn.com/articles/3771452",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 19时12分]"
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 21时28分]"
         },
         {
           "title": "分析师分析师电话会：苹果公司预计第三财季营收将同比增长14%-17%，分析师预期增长9.1%。 预计第三财季服务营收增幅将与第二财季（至3月的三个月）类似。 预计第三财季毛利润率为47.5%-48.5%。 本公司不再追求净现金中性立场。 苹果公司美股盘后上涨3.45%。",
@@ -947,7 +971,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -991,7 +1015,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1038,6 +1062,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
+        },
+        {
+          "title": "苹果美股盘前涨幅扩大至逾4%。",
+          "url": "https://wallstreetcn.com/livenews/3097892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "金十图示：2026年04月30日（周四）热门中概股行情一览（美股盘中）",
@@ -1087,8 +1122,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时57分 ~ 19时12分]"
+          "appearance_count": 10,
+          "time_info": "[06时57分 ~ 21时28分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -1101,8 +1136,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时57分 ~ 19时12分]"
+          "appearance_count": 10,
+          "time_info": "[06时57分 ~ 21时28分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -1118,6 +1153,19 @@
           "time_info": "[01时25分 ~ 07时57分]"
         },
         {
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时05分 ~ 21时28分]"
+        },
+        {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
           "url": "https://news.ifeng.com/c/8skgZ2z6e0A",
           "source": "凤凰网",
@@ -1128,18 +1176,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时25分 ~ 07时57分]"
-        },
-        {
-          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
-          "url": "https://wallstreetcn.com/articles/3771450",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时05分 ~ 19时12分]"
         },
         {
           "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
@@ -1237,11 +1273,12 @@
             4,
             7,
             9,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时25分 ~ 19时12分]"
+          "appearance_count": 14,
+          "time_info": "[01时25分 ~ 21时28分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
