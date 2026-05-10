@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T16:58:23.405114+08:00",
-  "total_titles_processed": 922,
+  "generated_at": "2026-05-10T18:22:28.136823+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
@@ -60,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时54分 ~ 16时58分]"
+          "appearance_count": 7,
+          "time_info": "[07时54分 ~ 18时22分]"
         },
         {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
@@ -170,8 +170,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时05分 ~ 16时58分]"
+          "appearance_count": 14,
+          "time_info": "[01时05分 ~ 18时22分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -179,11 +179,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            4
+            4,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 16时58分]"
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 18时22分]"
         },
         {
           "title": "Deepseek和阿里谈崩了？市场人士回应",
@@ -303,11 +304,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时37分 ~ 16时58分]"
+          "appearance_count": 4,
+          "time_info": "[14时37分 ~ 18时22分]"
         },
         {
           "title": "沙特阿美股价在早盘交易中上涨1.1%。",
@@ -316,7 +318,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         }
